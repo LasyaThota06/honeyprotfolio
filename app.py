@@ -28,7 +28,7 @@ button{background:#00ff9d;color:#000;padding:12px 25px;border:none;border-radius
 .live{color:#00ff9d;font-weight:bold;text-align:center;padding:10px;background:#0f172a;border-radius:8px;border:1px dashed #00ff9d}
 a{color:#00ff9d;text-decoration:none} .trapped{background:#ff0055;color:white;padding:15px;text-align:center;border-radius:8px;margin:15px 0}
 </style></head><body>
-<header><h1>Lasya Sri | Cyber Security Analyst</h1><p>SOC Analyst | SIEM | Python | Honeypot Developer</p><p><a href="#">LinkedIn</a> | Vijayawada, AP</p></header>
+<header><h1>Lasya Thota | Cyber Security Analyst</h1><p>SOC Analyst | SIEM | Python | Honeypot Developer</p><p><a href="#">LinkedIn</a> | Vijayawada, AP</p></header>
 <div class="container">
 <div class="card"><h2 style="color:#00ff9d">About Me</h2><p>This portfolio is a <b>LIVE Honeypot</b> - every attack is trapped in my private SOC.</p></div>
 <div class="card"><div class="live">🔴 LIVE Hackers Trapped: {{ count }} | Honeypot Active</div>
